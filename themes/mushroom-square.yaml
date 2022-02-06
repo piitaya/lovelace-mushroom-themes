@@ -8,9 +8,6 @@ Mushroom Square:
     mush-icon-border-radius: 6px
     mush-control-border-radius: 6px
     # Chips
-    mush-chip-spacing: 8px
-    mush-chip-height: 36px
-    mush-chip-padding: 0 12px 0px
     mush-chip-border-radius: 6px
     modes:
         light:
