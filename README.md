@@ -4,7 +4,9 @@
 
 Mushroom allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
-![Overview](https://user-images.githubusercontent.com/5878303/152332130-760cf616-5c40-4825-a482-bb8f1f0f5251.png)
+> This theme is only for Mushroom custom cards. You need to install [Mushroom](mushroom) before !
+
+![Overview](https://user-images.githubusercontent.com/5878303/152695688-9d705231-500c-49e7-82f5-69e206da95db.png)
 
 ## Usage
 
@@ -54,3 +56,4 @@ git clone https://github.com/piitaya/lovelace-mushroom
 [home-assistant]: https://www.home-assistant.io/
 [home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
 [hacs]: https://hacs.xyz
+[mushroom]: https://github.com/piitaya/lovelace-mushroom
