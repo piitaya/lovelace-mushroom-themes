@@ -105,11 +105,11 @@ git clone https://github.com/piitaya/lovelace-mushroom
 <!-- Badges -->
 
 [hacs-url]: https://github.com/custom-components/hacs
-[hacs-badge]: https://img.shields.io/badge/hacs-custom-orange.svg?style=flat-square
+[hacs-badge]: https://img.shields.io/badge/hacs-default-orange.svg?style=flat-square
 
 <!-- References -->
 
 [home-assistant]: https://www.home-assistant.io/
 [home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
 [hacs]: https://hacs.xyz
-[mushroom]: https://github.com/piitaya/lovelace-mushroom
+[mushroom]: https://github.com/piitaya/lovelace-mushroom-themes
