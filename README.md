@@ -2,7 +2,7 @@
 
 [![hacs][hacs-badge]][hacs-url]
 
-Mushroom allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
+Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
 > ⚠️ It's only a theme! You need to install [Mushroom](mushroom) before to create the card on your dashboard!
 
