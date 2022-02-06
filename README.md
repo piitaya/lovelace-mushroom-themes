@@ -99,7 +99,7 @@ Clone this repository in your existing (or create it) themes/ folder.
 
 ```sh
 cd themes/
-git clone https://github.com/piitaya/lovelace-mushroom
+git clone https://github.com/piitaya/lovelace-mushroom-themes
 ```
 
 <!-- Badges -->
@@ -112,4 +112,4 @@ git clone https://github.com/piitaya/lovelace-mushroom
 [home-assistant]: https://www.home-assistant.io/
 [home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
 [hacs]: https://hacs.xyz
-[mushroom]: https://github.com/piitaya/lovelace-mushroom-themes
+[mushroom]: https://github.com/piitaya/lovelace-mushroom
