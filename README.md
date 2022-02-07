@@ -67,6 +67,26 @@ Mushroom:
     mush-rgb-blue-grey: 96, 125, 139
     mush-rgb-black: 0, 0, 0
     mush-rgb-white: 255, 255, 255
+    
+    mush-rgb-info: var(--rgb-blue)
+    mush-rgb-success: var(--rgb-green)
+    mush-rgb-warning: var(--rgb-orange)
+    mush-rgb-danger: var(--rgb-red)
+
+    mush-rgb-state-cover: var(--rgb-blue)
+    mush-rgb-state-fan: var(--rgb-green)
+    mush-rgb-state-light: var(--rgb-orange)
+    mush-rgb-state-entity: var(--rgb-blue)
+    mush-rgb-state-switch: var(--rgb-blue)
+
+    mush-rgb-state-alarm-disarmed: var(--rgb-info)
+    mush-rgb-state-alarm-armed: var(--rgb-success)
+    mush-rgb-state-alarm-triggered: var(--rgb-danger)
+
+    mush-rgb-state-person-home: var(--rgb-success)
+    mush-rgb-state-person-not-home: var(--rgb-danger)
+    mush-rgb-state-person-unknown: var(--rgb-grey)
+    
     # You must keep this to support light/dark theme
     modes:
         light: {}
