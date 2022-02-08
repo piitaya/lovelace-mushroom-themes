@@ -85,6 +85,7 @@ Mushroom:
 
     mush-rgb-state-person-home: var(--rgb-success)
     mush-rgb-state-person-not-home: var(--rgb-danger)
+    mush-rgb-state-person-zone: var(--rgb-info)
     mush-rgb-state-person-unknown: var(--rgb-grey)
     
     # You must keep this to support light/dark theme
