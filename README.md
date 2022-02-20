@@ -107,14 +107,12 @@ frontend:
 
 ### HACS
 
-**Mushroom Themes** is not available in [HACS][hacs] (Home Assistant Community Store) yet but it will be available soon. You must add it as a custom repository.
+**Mushroom Themes** is available in [HACS][hacs] (Home Assistant Community Store).
 
-1. Go to any of the sections (integrations, frontend, automation).
-2. Click on the 3 dots in the top right corner.
-3. Select "Custom repositories"
-4. Add the URL to the repository https://github.com/piitaya/lovelace-mushroom-themes
-5. Select the `Lovelace` category.
-6. Click the `ADD` button.
+1. Open HACS
+2. Go to "Frontend" section
+3. Click button with "+" icon
+4. Search for "Mushroom Themes"
 
 ### Manual
 
