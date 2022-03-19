@@ -40,11 +40,18 @@ Mushroom:
     # Card
     mush-icon-border-radius: 50%
     mush-control-border-radius: 12px
+    mush-card-primary-font-size: 14px
+    mush-card-secondary-font-size: 12px
+    mush-card-primary-font-weight: bold
+    mush-card-secondary-font-weight: bolder
     # Chips
     mush-chip-spacing: 8px
     mush-chip-padding: 0 12px
     mush-chip-height: 36px
     mush-chip-border-radius: 18px
+    mush-chip-font-size: 1em # relative to chip height
+    mush-chip-font-weight: bold
+    mush-chip-icon-size: 1.5em # relative to chip height
     # Colors
     mush-rgb-red: 244, 67, 54
     mush-rgb-pink: 233, 30, 99
