@@ -52,6 +52,8 @@ Mushroom:
     mush-chip-font-size: 1em # relative to chip height
     mush-chip-font-weight: bold
     mush-chip-icon-size: 1.5em # relative to chip height
+    # Slider
+    mush-slider-threshold: 10
     # Colors
     mush-rgb-red: 244, 67, 54
     mush-rgb-pink: 233, 30, 99
