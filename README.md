@@ -77,25 +77,25 @@ Mushroom:
     mush-rgb-black: 0, 0, 0
     mush-rgb-white: 255, 255, 255
         
-    mush-rgb-info: var(--rgb-blue)
-    mush-rgb-success: var(--rgb-green)
-    mush-rgb-warning: var(--rgb-orange)
-    mush-rgb-danger: var(--rgb-red)
+    mush-rgb-info: var(--mush-rgb-blue)
+    mush-rgb-success: var(--mush-rgb-green)
+    mush-rgb-warning: var(--mush-rgb-orange)
+    mush-rgb-danger: var(--mush-rgb-red)
 
-    mush-rgb-state-cover: var(--rgb-blue)
-    mush-rgb-state-fan: var(--rgb-green)
-    mush-rgb-state-light: var(--rgb-orange)
-    mush-rgb-state-entity: var(--rgb-blue)
-    mush-rgb-state-switch: var(--rgb-blue)
+    mush-rgb-state-cover: var(--mush-rgb-blue)
+    mush-rgb-state-fan: var(--mush-rgb-green)
+    mush-rgb-state-light: var(--mush-rgb-orange)
+    mush-rgb-state-entity: var(--mush-rgb-blue)
+    mush-rgb-state-switch: var(--mush-rgb-blue)
 
-    mush-rgb-state-alarm-disarmed: var(--rgb-info)
-    mush-rgb-state-alarm-armed: var(--rgb-success)
-    mush-rgb-state-alarm-triggered: var(--rgb-danger)
+    mush-rgb-state-alarm-disarmed: var(--mush-rgb-info)
+    mush-rgb-state-alarm-armed: var(--mush-rgb-success)
+    mush-rgb-state-alarm-triggered: var(--mush-rgb-danger)
 
-    mush-rgb-state-person-home: var(--rgb-success)
-    mush-rgb-state-person-not-home: var(--rgb-danger)
-    mush-rgb-state-person-zone: var(--rgb-info)
-    mush-rgb-state-person-unknown: var(--rgb-grey)
+    mush-rgb-state-person-home: var(--mush-rgb-success)
+    mush-rgb-state-person-not-home: var(--mush-rgb-danger)
+    mush-rgb-state-person-zone: var(--mush-rgb-info)
+    mush-rgb-state-person-unknown: var(--mush-rgb-grey)
     
     # You must keep this to support light/dark theme
     modes:
