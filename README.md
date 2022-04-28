@@ -76,7 +76,7 @@ Mushroom:
     mush-rgb-blue-grey: 96, 125, 139
     mush-rgb-black: 0, 0, 0
     mush-rgb-white: 255, 255, 255
-    
+        
     mush-rgb-info: var(--rgb-blue)
     mush-rgb-success: var(--rgb-green)
     mush-rgb-warning: var(--rgb-orange)
@@ -99,8 +99,10 @@ Mushroom:
     
     # You must keep this to support light/dark theme
     modes:
-        light: {}
-        dark: {}
+        light: 
+            mush-rgb-disabled: 189, 189, 189
+        dark:
+            mush-rgb-disabled: 111, 111, 111
 ```
 
 ## Installation
