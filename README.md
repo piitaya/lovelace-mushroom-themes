@@ -82,7 +82,6 @@ Mushroom:
     mush-rgb-warning: var(--mush-rgb-orange)
     mush-rgb-danger: var(--mush-rgb-red)
 
-    mush-rgb-state-cover: var(--mush-rgb-blue)
     mush-rgb-state-fan: var(--mush-rgb-green)
     mush-rgb-state-light: var(--mush-rgb-orange)
     mush-rgb-state-entity: var(--mush-rgb-blue)
@@ -96,6 +95,9 @@ Mushroom:
     mush-rgb-state-person-not-home: var(--mush-rgb-danger)
     mush-rgb-state-person-zone: var(--mush-rgb-info)
     mush-rgb-state-person-unknown: var(--mush-rgb-grey)
+    
+    mush-rgb-state-cover-open: var(--mush-rgb-blue)
+    mush-rgb-state-cover-closed: var(--mush-rgb-disabled)
     
     # You must keep this to support light/dark theme
     modes:
