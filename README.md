@@ -138,7 +138,7 @@ git clone https://github.com/piitaya/lovelace-mushroom-themes
 
 <!-- Badges -->
 
-[hacs-url]: https://github.com/custom-components/hacs
+[hacs-url]: ![image](https://user-images.githubusercontent.com/85389871/166467684-abfc315a-3603-47f2-9ad7-4bbdd14074b8.png)
 [hacs-badge]: https://img.shields.io/badge/hacs-default-orange.svg?style=flat-square
 
 <!-- References -->
