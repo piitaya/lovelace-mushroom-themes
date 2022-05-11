@@ -21,6 +21,8 @@ Just select your theme in your Home Assistant profile settings.
 
 You can build your own theme by using the mushroom variables.
 
+`em` unit is relative to container height.
+
 ```yaml
 Mushroom:
     # HA variables
@@ -34,26 +36,39 @@ Mushroom:
     mush-title-font-size: 24px
     mush-title-font-weight: normal
     mush-title-line-height: 1.2
+    # Subtitle
     mush-subtitle-font-size: 16px
     mush-subtitle-font-weight: normal
     mush-subtitle-line-height: 1.2
     # Card
-    mush-icon-border-radius: 50%
-    mush-control-border-radius: 12px
     mush-card-primary-font-size: 14px
     mush-card-secondary-font-size: 12px
     mush-card-primary-font-weight: bold
     mush-card-secondary-font-weight: bolder
-    # Chips
+    # Chip
     mush-chip-spacing: 8px
-    mush-chip-padding: 0 12px
+    mush-chip-padding: 0 0.25em
     mush-chip-height: 36px
     mush-chip-border-radius: 18px
-    mush-chip-font-size: 1em # relative to chip height
+    mush-chip-font-size: 0.3em
     mush-chip-font-weight: bold
-    mush-chip-icon-size: 1.5em # relative to chip height
+    mush-chip-icon-size: 0.5em
+    mush-chip-avatar-padding: 0.1em
+    # Control
+    mush-control-border-radius: 12px
+    mush-control-height: 42px
+    mush-control-button-ratio: 1
+    mush-control-icon-size: 0.5em
     # Slider
     mush-slider-threshold: 10
+    # Badge
+    mush-badge-size, 16px
+    mush-badge-icon-size, 0.75em
+    mush-badge-border-radius, 50%
+    # Icon
+    mush-icon-border-radius: 50%
+    mush-icon-size, 42px
+    mush-icon-symbol-size, 0.5em
     # Colors
     mush-rgb-red: 244, 67, 54
     mush-rgb-pink: 233, 30, 99
