@@ -63,13 +63,13 @@ Mushroom:
     # Slider
     mush-slider-threshold: 10
     # Badge
-    mush-badge-size, 16px
-    mush-badge-icon-size, 0.75em
-    mush-badge-border-radius, 50%
+    mush-badge-size: 16px
+    mush-badge-icon-size: 0.75em
+    mush-badge-border-radius: 50%
     # Icon
     mush-icon-border-radius: 50%
-    mush-icon-size, 42px
-    mush-icon-symbol-size, 0.5em
+    mush-icon-size: 42px
+    mush-icon-symbol-size: 0.5em
     # Colors
     mush-rgb-red: 244, 67, 54
     mush-rgb-pink: 233, 30, 99
