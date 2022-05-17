@@ -45,6 +45,8 @@ Mushroom:
     mush-card-secondary-font-size: 12px
     mush-card-primary-font-weight: bold
     mush-card-secondary-font-weight: bolder
+    mush-card-primary-line-height: 1.5
+    mush-card-secondary-line-height: 1.5
     # Chip
     mush-chip-spacing: 8px
     mush-chip-padding: 0 0.25em
@@ -55,6 +57,8 @@ Mushroom:
     mush-chip-icon-size: 0.5em
     mush-chip-avatar-padding: 0.1em
     mush-chip-avatar-border-radius: 50%
+    mush-chip-box-shadow: var(--ha-card-box-shadow)
+    mush-chip-background: var(--ha-card-background)
     # Control
     mush-control-border-radius: 12px
     mush-control-height: 42px
