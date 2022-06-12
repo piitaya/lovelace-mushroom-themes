@@ -1,7 +1,7 @@
 Mushroom Square:
     # Home Assistant override
     ha-card-box-shadow: inset 0px 0px 0px 1px var(--border-color)
-    ha-card-border-radius: 6px
+    ha-card-border-radius: 20px
     # Layout
     mush-spacing: 8px
     # Elements
