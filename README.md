@@ -119,6 +119,15 @@ Mushroom:
     mush-rgb-state-cover-open: var(--mush-rgb-blue)
     mush-rgb-state-cover-closed: var(--mush-rgb-disabled)
     
+    mush-rgb-state-climate-auto: var(--mush-rgb-green);
+    mush-rgb-state-climate-cool: var(--mush-rgb-blue);
+    mush-rgb-state-climate-dry: var(--mush-rgb-orange);
+    mush-rgb-state-climate-fan-only: var(--mush-rgb-blue-grey);
+    mush-rgb-state-climate-heat: var(--mush-rgb-deep-orange);
+    mush-rgb-state-climate-heat-cool: var(--mush-rgb-green);
+    mush-rgb-state-climate-idle: var(--mush-rgb-grey);
+    mush-rgb-state-climate-off: var(--mush-rgb-disabled);
+    
     # You must keep this to support light/dark theme
     modes:
         light: 
