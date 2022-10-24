@@ -1,7 +1,5 @@
 Mushroom:
-    # Home Assistant override
-    ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
-    ha-card-border-radius: 12px
+    # Nothing here as it's the default HA theme since 2022.11
     modes:
         light: {}
         dark: {}

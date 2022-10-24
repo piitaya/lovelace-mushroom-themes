@@ -4,7 +4,7 @@
 
 Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
-> ⚠️ It's only a theme! You need to install [Mushroom][mushroom] before to create the card on your dashboard!
+> ⚠️ It's only a theme! You need to install [Mushroom][mushroom] if you want to use Mushroom cards!
 
 ![Overview](https://user-images.githubusercontent.com/5878303/152695688-9d705231-500c-49e7-82f5-69e206da95db.png)
 
@@ -96,7 +96,7 @@ Mushroom:
     mush-rgb-blue-grey: 96, 125, 139
     mush-rgb-black: 0, 0, 0
     mush-rgb-white: 255, 255, 255
-        
+
     mush-rgb-info: var(--mush-rgb-blue)
     mush-rgb-success: var(--mush-rgb-green)
     mush-rgb-warning: var(--mush-rgb-orange)
@@ -115,10 +115,10 @@ Mushroom:
     mush-rgb-state-person-not-home: var(--mush-rgb-danger)
     mush-rgb-state-person-zone: var(--mush-rgb-info)
     mush-rgb-state-person-unknown: var(--mush-rgb-grey)
-    
+
     mush-rgb-state-cover-open: var(--mush-rgb-blue)
     mush-rgb-state-cover-closed: var(--mush-rgb-disabled)
-    
+
     mush-rgb-state-climate-auto: var(--mush-rgb-green);
     mush-rgb-state-climate-cool: var(--mush-rgb-blue);
     mush-rgb-state-climate-dry: var(--mush-rgb-orange);
@@ -127,10 +127,10 @@ Mushroom:
     mush-rgb-state-climate-heat-cool: var(--mush-rgb-green);
     mush-rgb-state-climate-idle: var(--mush-rgb-grey);
     mush-rgb-state-climate-off: var(--mush-rgb-disabled);
-    
+
     # You must keep this to support light/dark theme
     modes:
-        light: 
+        light:
             mush-rgb-disabled: 189, 189, 189
         dark:
             mush-rgb-disabled: 111, 111, 111
