@@ -57,7 +57,6 @@ Mushroom:
     mush-chip-icon-size: 0.5em
     mush-chip-avatar-padding: 0.1em
     mush-chip-avatar-border-radius: 50%
-    mush-chip-box-shadow: var(--ha-card-box-shadow)
     mush-chip-background: var(--ha-card-background)
     # Control
     mush-control-border-radius: 12px
