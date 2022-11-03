@@ -2,13 +2,15 @@
 
 [![hacs][hacs-badge]][hacs-url]
 
-**🚨 Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
-If you use Mushroom Square theme, you can keep it, otherwise, you can uninstall it.**
-
-Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
+> **Warning** Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
+> You only need it if you want `Square` or `Shadow` theme.
 
 > **Warning**
 > It's only a theme! You need to install [Mushroom][mushroom] if you want to use Mushroom cards!
+
+## Description
+
+Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
 ![Overview](https://user-images.githubusercontent.com/5878303/152695688-9d705231-500c-49e7-82f5-69e206da95db.png)
 
@@ -16,10 +18,11 @@ Mushroom themes allow you to customize your Mushroom dashboard using [Home Assis
 
 Just select your theme in your Home Assistant profile settings.
 
-2 themes are available :
+3 themes are available :
 
--   Mushroom (default)
--   Mushroom square
+-   Mushroom (default) : If you use this one, just simply uninstall Mushroom Themes as it's now part of Home Assistant default theme.
+-   Mushroom Square
+-   Mushroom Shadow
 
 ## Build your own
 
