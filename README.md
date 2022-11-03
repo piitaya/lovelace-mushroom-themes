@@ -2,8 +2,8 @@
 
 [![hacs][hacs-badge]][hacs-url]
 
-🚨 Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
-If you use Mushroom Square theme, you can keep it, otherwise, you can uninstall it.
+**🚨 Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
+If you use Mushroom Square theme, you can keep it, otherwise, you can uninstall it.**
 
 Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
