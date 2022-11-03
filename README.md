@@ -18,7 +18,7 @@ Mushroom themes allow you to customize your Mushroom dashboard using [Home Assis
 
 Just select your theme in your Home Assistant profile settings.
 
-3 themes are available :
+4 themes are available :
 
 -   Mushroom (default) : If you use this one, just simply uninstall Mushroom Themes as it's now part of Home Assistant default theme.
 -   Mushroom Square
