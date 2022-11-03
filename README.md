@@ -7,7 +7,8 @@ If you use Mushroom Square theme, you can keep it, otherwise, you can uninstall 
 
 Mushroom themes allow you to customize your Mushroom dashboard using [Home Assistant][home-assistant] themes.
 
-> ⚠️ It's only a theme! You need to install [Mushroom][mushroom] if you want to use Mushroom cards!
+> **Warning**
+> It's only a theme! You need to install [Mushroom][mushroom] if you want to use Mushroom cards!
 
 ![Overview](https://user-images.githubusercontent.com/5878303/152695688-9d705231-500c-49e7-82f5-69e206da95db.png)
 
