@@ -2,9 +2,8 @@
 
 [![hacs][hacs-badge]][hacs-url]
 
-> **Warning**Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
-> If you use Mushroom Square theme, you can keep it, otherwise, you can uninstall it.
-> If you want the old Mushroom style, use `Mushroom shadow` theme.\*\*
+> **Warning** Mushroom theme is not needed anymore if you have Home Assistant 2022.11 `version`!
+> You only need it if you want `Square` or `Shadow` theme.
 
 > **Warning**
 > It's only a theme! You need to install [Mushroom][mushroom] if you want to use Mushroom cards!
@@ -22,8 +21,8 @@ Just select your theme in your Home Assistant profile settings.
 3 themes are available :
 
 -   Mushroom (default) : If you use this one, just simply uninstall Mushroom Themes as it's now part of Home Assistant default theme.
--   Mushroom square
--   Mushroom shadow
+-   Mushroom Square
+-   Mushroom Shadow
 
 ## Build your own
 
