@@ -51,10 +51,15 @@ Mushroom:
     # Card
     mush-card-primary-font-size: 14px
     mush-card-secondary-font-size: 12px
-    mush-card-primary-font-weight: bold
-    mush-card-secondary-font-weight: bolder
-    mush-card-primary-line-height: 1.5
-    mush-card-secondary-line-height: 1.5
+    mush-card-primary-font-weight: 500
+    mush-card-secondary-font-weight: 400
+    mush-card-primary-line-height: 20px
+    mush-card-secondary-line-height: 16px
+    mush-card-primary-color: var(--primary-text-color)
+    mush-card-secondary-color: var(--primary-text-color)
+    mush-card-primary-letter-spacing: 0.1px
+    mush-card-secondary-letter-spacing: 0.4px
+
     # Chip
     mush-chip-spacing: 8px
     mush-chip-padding: 0 0.25em
@@ -79,13 +84,13 @@ Mushroom:
     mush-badge-border-radius: 50%
     # Icon
     mush-icon-border-radius: 50%
-    mush-icon-size: 42px
-    mush-icon-symbol-size: 0.5em
+    mush-icon-size: 40px
+    mush-icon-symbol-size: 0.6em
     # Colors
     mush-rgb-red: 244, 67, 54
     mush-rgb-pink: 233, 30, 99
-    mush-rgb-purple: 156, 39, 176
-    mush-rgb-deep-purple: 103, 58, 183
+    mush-rgb-purple: 106, 107, 201
+    mush-rgb-deep-purple: 111, 66, 193
     mush-rgb-indigo: 63, 81, 181
     mush-rgb-blue: 33, 150, 243
     mush-rgb-light-blue: 3, 169, 244
@@ -97,9 +102,11 @@ Mushroom:
     mush-rgb-yellow: 255, 235, 59
     mush-rgb-amber: 255, 193, 7
     mush-rgb-orange: 255, 152, 0
-    mush-rgb-deep-orange: 255, 87, 34
+    mush-rgb-deep-orange: 255, 111, 0
     mush-rgb-brown: 121, 85, 72
+    mush-rgb-light-grey: 189, 189, 189;
     mush-rgb-grey: 158, 158, 158
+    mush-rgb-dark-grey: 96, 96, 96;
     mush-rgb-blue-grey: 96, 125, 139
     mush-rgb-black: 0, 0, 0
     mush-rgb-white: 255, 255, 255
