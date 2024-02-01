@@ -39,15 +39,33 @@ Mushroom:
     # Mushroom layout
     mush-spacing: 12px
     # Title
-    mush-title-padding: 24px 12px 16px
-    mush-title-spacing: 12px
+    mush-title-padding: 24px 12px 8px
+    mush-title-spacing: 8px
     mush-title-font-size: 24px
     mush-title-font-weight: normal
-    mush-title-line-height: 1.2
+    mush-title-line-height: 32px
+    mush-title-color: var(--primary-text-color)
+    mush-title-letter-spacing: -0.288px
     # Subtitle
     mush-subtitle-font-size: 16px
     mush-subtitle-font-weight: normal
-    mush-subtitle-line-height: 1.2
+    mush-subtitle-line-height: 24px
+    mush-subtitle-color: var(--secondary-text-color);
+    mush-subtitle-letter-spacing: 0px
+
+    --title-padding: var(--mush-title-padding, 24px 12px 8px);
+    --title-spacing: var(--mush-title-spacing, 8px);
+    --title-font-size: var(--mush-title-font-size, 24px);
+    --title-font-weight: var(--mush-title-font-weight, normal);
+    --title-line-height: var(--mush-title-line-height, 32px);
+    --title-color: var(--mush-title-color, var(--primary-text-color));
+    --title-letter-spacing: var(--mush-title-letter-spacing, -0.288px);
+    --subtitle-font-size: var(--mush-subtitle-font-size, 16px);
+    --subtitle-font-weight: var(--mush-subtitle-font-weight, normal);
+    --subtitle-line-height: var(--mush-subtitle-line-height, 24px);
+    --subtitle-color: var(--mush-subtitle-color, var(--secondary-text-color));
+    --subtitle-letter-spacing: var(--mush-subtitle-letter-spacing, 0px);
+
     # Card
     mush-card-primary-font-size: 14px
     mush-card-secondary-font-size: 12px
