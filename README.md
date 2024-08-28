@@ -36,8 +36,9 @@ Mushroom:
     # HA variables
     ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
     ha-card-border-radius: 12px
+    ha-badge-border-radius: 18px
     # Mushroom layout
-    mush-spacing: 12px
+    mush-spacing: 10px
     # Title
     mush-title-padding: 24px 12px 8px
     mush-title-spacing: 8px
@@ -69,18 +70,22 @@ Mushroom:
     mush-chip-spacing: 8px
     mush-chip-padding: 0 0.25em
     mush-chip-height: 36px
-    mush-chip-border-radius: 18px
+    mush-chip-border-radius: 19px
+    mush-chip-border-width: var(--ha-card-border-width, 1px)
+    mush-chip-border-color: var(--ha-card-border-color, var(--divider-color))
+    mush-chip-box-shadow: var(--ha-card-box-shadow, none)
     mush-chip-font-size: 0.3em
     mush-chip-font-weight: bold
     mush-chip-icon-size: 0.5em
     mush-chip-avatar-padding: 0.1em
     mush-chip-avatar-border-radius: 50%
-    mush-chip-background: var(--ha-card-background)
+    mush-chip-background: var(--ha-card-background, white)
     # Control
     mush-control-border-radius: 12px
     mush-control-height: 42px
     mush-control-button-ratio: 1
     mush-control-icon-size: 0.5em
+    mush-control-spacing: 12px
     # Slider
     mush-slider-threshold: 10
     # Badge
@@ -89,7 +94,7 @@ Mushroom:
     mush-badge-border-radius: 50%
     # Icon
     mush-icon-border-radius: 50%
-    mush-icon-size: 40px
+    mush-icon-size: 36px
     mush-icon-symbol-size: 0.6em
     # Colors
     mush-rgb-red: 244, 67, 54
