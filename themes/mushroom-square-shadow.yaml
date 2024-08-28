@@ -6,8 +6,8 @@ Mushroom Square Shadow:
     # Home Assistant override
     ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
     ha-card-border-width: 0
-    # Home Assistant override
     ha-card-border-radius: 6px
+    ha-badge-border-radius: 6px
     # Layout
     mush-spacing: 8px
     # Elements
