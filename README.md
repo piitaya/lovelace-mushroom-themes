@@ -14,6 +14,33 @@ Mushroom themes allow you to customize your Mushroom dashboard using [Home Assis
 
 ![Overview](https://user-images.githubusercontent.com/5878303/152695688-9d705231-500c-49e7-82f5-69e206da95db.png)
 
+## Compatibility
+
+The themes are compatible with the original Mushroom cards :
+
+- Alarm card
+- Chips card
+- Climate card
+- Cover card
+- Entity card
+- Empty card
+- Fan card
+- Humidifier card
+- Light card
+- Lock card
+- Media card
+- Number card
+- Person card
+- Select card
+- Legacy Template card
+- Title card
+- Update card
+- Vacuum card
+
+The themes are not compatible with the following cards and badges as there are based on official Home Assistant component
+- Template card
+- Template badge
+
 ## Usage
 
 Just select your theme in your Home Assistant profile settings.
