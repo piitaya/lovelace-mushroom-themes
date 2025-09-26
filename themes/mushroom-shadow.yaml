@@ -3,9 +3,9 @@
 # If you want to customize it, copy the content in another folder and file and change the name.
 # https://www.home-assistant.io/integrations/frontend/#defining-themes
 Mushroom Shadow:
-    # Home Assistant override
-    ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
-    ha-card-border-width: 0
-    modes:
-        light: {}
-        dark: {}
+  # Home Assistant override
+  ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
+  ha-card-border-width: 0
+  modes:
+    light: {}
+    dark: {}

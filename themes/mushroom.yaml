@@ -3,7 +3,7 @@
 # If you want to customize it, copy the content in another folder and file and change the name.
 # https://www.home-assistant.io/integrations/frontend/#defining-themes
 Mushroom:
-    # Nothing here as it's the default HA theme since 2022.11
-    modes:
-        light: {}
-        dark: {}
+  # Nothing here as it's the default HA theme since 2022.11
+  modes:
+    light: {}
+    dark: {}
